@@ -1,5 +1,5 @@
 body {   
-    width: 600px;   
+    width: 800px;   
     margin: 0 auto;   
     padding: 0 20px 20px 20px;   
     /* border: 2px solid white;  */
@@ -11,13 +11,23 @@ a{
     font-size: 20px;
     color: crimson;
 }
-p,h1,h2,h3{
+p{
     color: rgb(243, 229, 210);
     font-size: 20px;
     font-family: 'Playfair Display', serif;
 }
+h1{
+    color: rgb(243, 229, 210);
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+h2{
+    color: rgb(243, 229, 210);
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
 img{
-    width: 600px;
+    width: 800px;
 }
 .counting_rhyme{
     font-size: 22px;
