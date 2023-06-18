@@ -1,0 +1,32 @@
+<table>
+    <row>
+        <FIO>
+            <name>Анна</name>
+            <surname>Карпова</surname>
+            <lastname>Александровна</lastname>
+        </FIO>
+        <bithday>2008</bithday>
+        <class>8a</class>
+        <adress>
+            <city>Москва</city>
+            <street>Ленинский проспект</street>
+            <house>2</house>
+            <appartament>277</appartament>
+        </adress>
+    </row>
+    <row>
+        <FIO>
+            <name>Михаил</name>
+            <surname>Малышкин</surname>
+            <lastname>Иванович</lastname>
+        </FIO>
+        <bithday>2014</bithday>
+        <class>2б</class>
+        <adress>
+            <city>Москва</city>
+            <street>Ленинградское шосссе</street>
+            <house>10</house>
+            <appartament>56</appartament>
+        </adress>
+    </row>
+</table>

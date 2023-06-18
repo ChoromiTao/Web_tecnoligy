@@ -1,0 +1,37 @@
+<table>
+    <row>
+        <title>Камил видит руками</title>
+        <author>Томаш Малковски</author>
+        <countPage>146</countPage>
+        <date>2019</date>
+        <price>863</price>
+    </row>
+    <row>
+        <title>Вероятности и неприятности</title>
+        <author>Сергей Самойленко</author>
+        <countPage>134</countPage>
+        <date>2022</date>
+        <price>1055</price>
+    </row> 
+    <row>
+        <title>Когда жизнь сбивает с ног</title>
+        <author>Расс Хэррис</author>
+        <countPage>80</countPage>
+        <date>2021</date>
+        <price>945</price>
+    </row> 
+    <row>
+        <title>Цветы в темноте</title>
+        <author>Сестра Данг Нгием</author>
+        <countPage>124</countPage>
+        <date>2020</date>
+        <price>1027</price>
+    </row> 
+    <row>
+        <title>Стратегии перемен</title>
+        <author>Джон Коттер</author>
+        <countPage>102</countPage>
+        <date>2022</date>
+        <price>1418</price>
+    </row> 
+</table>

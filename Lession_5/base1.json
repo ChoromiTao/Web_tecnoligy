@@ -1,0 +1,34 @@
+{
+	"catalog": {
+		"oject_sale": [
+			{
+				"name_obj": "Яблоко",
+				"weight_package, g": 1000,
+				"group_obj": "Фрукты",
+				"price": 150,
+				"storage": 1
+			},
+			{
+				"name_obj": "Картошка ранняя",
+				"weight_package, g": 5000,
+				"group_obj": "Овощи",
+				"price": 320,
+				"storage": 2
+			},
+			{
+				"name_obj": "Бананы",
+				"weight_package, g": 1000,
+				"group_obj": "Фрукты",
+				"price": 99,
+				"storage": 1
+			},
+			{
+				"name_obj": "Баунти мини",
+				"weight_package, g": 100,
+				"group_obj": "Кондитерские изделия",
+				"price": 180,
+				"storage": 3
+			}
+		]
+	}
+}
